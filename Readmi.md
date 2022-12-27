@@ -1,0 +1,1 @@
+![схема](FinalSemestr1.drawio)
